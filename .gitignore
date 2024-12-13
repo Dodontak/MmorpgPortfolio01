@@ -1,0 +1,17 @@
+*
+!Config/
+!Config/**
+
+!Content/
+!Content/**
+
+!Saved/
+!Saved/**
+
+!Source/
+!Source/**
+
+!*.uproject
+
+!.gitignore
+!.gitmessage
